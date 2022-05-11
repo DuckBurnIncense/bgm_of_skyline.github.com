@@ -1,6 +1,4 @@
-# bgm_of_skyline.github.com
-
-The background music of GitHub Skyline (skyline.github.com)  
+# The background music of GitHub Skyline (skyline.github.com) 
 
 GitHub Skyline (skyline.github.com) 的背景音乐(bgm)  
 
